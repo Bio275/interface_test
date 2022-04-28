@@ -18,3 +18,12 @@ Python接口自动化测试
 * 4.将测试结果生成html报告（HtmlTestRunner ---python3的很多语法不适用于这个报告,需要手动修改一些python3和python2里面不同的地方,我代码里面的已经做了修改，也可自己添加一些方法来优化测试报告文件）
 * 5.将测试报告发送到指定邮箱（SendMail ---这里使用的是QQ邮箱的STMP服务，需要获取授权码，具体操作可百度到）
 
+## 测试结果（截图 ---项目里面包含了用例文件和结果）
+* 1.用例截图：
+![接口用例截图](https://user-images.githubusercontent.com/40814664/165670659-eac3ea96-eac2-4fff-bb50-6663fbfadbb8.png)
+
+* 2.测试结果截图（Excel）：
+![用例结果截图](https://user-images.githubusercontent.com/40814664/165670787-f2b0f54e-93a1-4933-b84f-ab03f53474f4.png)
+
+* 3.测试结果报告截图(html)：
+![测试结果报告截图](https://user-images.githubusercontent.com/40814664/165670967-bba42191-2252-46f3-86f2-75543c8ebef1.png)
